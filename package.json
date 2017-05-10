@@ -1,0 +1,32 @@
+{
+  "name": "dl-resume-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyperkind/dl-resume-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyperkind/dl-resume-project/issues"
+  },
+  "homepage": "https://github.com/Hyperkind/dl-resume-project#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp-append-prepend": "^1.0.3",
+    "gulp-connect": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-open": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0"
+  }
+}
