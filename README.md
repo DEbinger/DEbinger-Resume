@@ -1,27 +1,94 @@
-# Markdown Resume Builder
+# David Ebinger
 
-## Create a github pages user page
+1. 91-1179 Kaiau Avenue Kapolei, HI 96707
+1. (808) 428-1661
+1. [Github](https://github.com/Debinger)
+1. [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
-- make a new github repo
-- repo's name MUST be `yourusername.github.io`
-- `cd yourusername.github.io`
-- touch index.html
-- mkdir css
-- touch css/main.css
-- git add --all
-- git commit
-- git push -u origin master
+## Objective
+Web developer with experience in front and back end developments. This includes all stages of the development cycle to create web applications.
 
-## Use the markdown resume builder
+## Development Experience
 
-- fork and clone this repo
-- run `gulp`
-- create your resume in the app/index.md file using ONLY markdown
-- some default styles are already pre-loaded. if you'd like to override any defaults with your own custom styling, add your styles to app/scss/styles.scss
+### Hele
+#### [Github - Hele.io](https://github.com/debinger/CEGS)
+##### May 2017
+- Web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
+- I personally contributed with development of the backend development (including authentification, user routes), and web application deployment.
+- [Hele.io](https://www.hele.io)
 
-## Add your resume to your github.io page
+### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
+#### [Github - W.A.A.V.E](https://github.com/DEbinger/adware-waves)
+##### Janruary 2017
+- Create a game that loads pop ups in intervals/set timeouts to your workstation. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
+- Implementation of Phaser functionality for the game.
+- A working game in a short hackathon period.
 
-- copy the public/index.html file from your resume builder
-- paste it into the index.html file in your `yourusername.github.io` directory
-- copy the public/styles.css file from your resume builder
-- paste it into the `css/main.css` file in your `yourusername.github.io` directory
+## Professional Experience
+
+### Configuration Architect
+#### Hawaii Medical Services Association
+##### HI 2004 – Present
+- Analyzes benefit plans, products, medical/payment policies, provider contracts, reimbursement
+methods, fees or medical coding
+- Researches current state of QNXT & CES configuration to meet requirements of projects and larger
+BAU assignments
+- Communicates effectively with various internal customers, BCIS Management/Leads, and Business
+Analysts
+- Ensure requests are completed within the scope of requirements
+- Recommend changes to requirements based on research to improve efficiency and increase owner
+satisfaction
+- Designs, develops, tests and implements QNXT configuration
+- Conducts unit testing to ensure application meets specifications
+
+## Education
+### DevLeague
+#### Full Stack Development Bootcamp
+##### December 2016 - May 2017
+
+## Technical Skills
+
+### Languages
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Web Skills
+- Backend Server Routes
+- User Authentification
+- Responsive/Mobile First Web Development
+- Test/Behavior Driven Development
+- Relational - and Non-Relational Database Modeling
+- API Integration
+- Web Application Deployment
+
+### Frontend Proficiencies
+- HTML5
+- CSS3
+- JavaScript
+- ES6
+- React
+- Redux
+- Angular
+- D3
+- SASS
+
+### Server-Side Proficiencies
+- NodeJS
+- Express
+- Sequelize
+
+### Database Proficiencies
+- PostgreSQL
+- Redis
+
+### Workflow/Testing Utilities
+- Git
+- Gulp
+- Mocha
+- Chai
+- SuperTest
+
+### Business Development
+- Web layouts and wire-framing
