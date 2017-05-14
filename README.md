@@ -1,9 +1,9 @@
 # David Ebinger
 
-1. 91-1179 Kaiau Avenue Kapolei, HI 96707
-1. (808) 428-1661
-1. [Github](https://github.com/Debinger)
-1. [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
+- 91-1179 Kaiau Avenue Kapolei, HI 96707
+- (808) 428-1661
+- [Github](https://github.com/Debinger)
+- [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
 ## Objective
 Web developer with experience in front and back end developments. This includes all stages of the development cycle to create web applications.
