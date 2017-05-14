@@ -1,20 +1,21 @@
 # David Ebinger
 
-1. 91-1179 Kaiau Avenue Kapolei, HI 96707
-1. (808) 428-1661
-1. [Github](https://github.com/Debinger)
-1. [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
+- 91-1179 Kaiau Avenue Kapolei, HI 96707
+- davidebinger888@gmail.com
+- (808) 428-1661
+- [Github - https://github.com/Debinger](https://github.com/Debinger)
+- [LinkedIn - https://www.linkedin.com/in/david-ebinger-85887313a/](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
 ## Objective
-Web developer with experience in front and back end developments. This includes all stages of the development cycle to create web applications.
+Full Stack Developer
 
 ## Development Experience
 
 ### Hele
 #### [Github - Hele.io](https://github.com/debinger/CEGS)
 ##### May 2017
-- Web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
-- I personally contributed with development of the backend development (including authentification, user routes), and web application deployment.
+- Created web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
+- Contributed with development of the backend development (including authentification, user routes), and web application deployment.
 - [Hele.io](https://www.hele.io)
 
 ### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
@@ -22,7 +23,7 @@ Web developer with experience in front and back end developments. This includes 
 ##### Janruary 2017
 - Create a game that loads pop ups in intervals/set timeouts to your workstation. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
 - Implementation of Phaser functionality for the game.
-- A working game in a short hackathon period.
+- Developing a working game in a short period of time.
 
 ## Professional Experience
 
@@ -33,11 +34,9 @@ Web developer with experience in front and back end developments. This includes 
 methods, fees or medical coding
 - Researches current state of QNXT & CES configuration to meet requirements of projects and larger
 BAU assignments
-- Communicates effectively with various internal customers, BCIS Management/Leads, and Business
-Analysts
+- Communicates effectively by being lead on requirement development with various internal customers, BCIS Management/Leads, and Business Analysts
 - Ensure requests are completed within the scope of requirements
-- Recommend changes to requirements based on research to improve efficiency and increase owner
-satisfaction
+- Recommend changes to existing workflows to ensure less manaual processing is needed based on requirements based and research that improves efficiency and increase overall satisfaction by business owner
 - Designs, develops, tests and implements QNXT configuration
 - Conducts unit testing to ensure application meets specifications
 
