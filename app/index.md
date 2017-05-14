@@ -1,8 +1,8 @@
 # David Ebinger
 
-- 91-1179 Kaiau Avenue Kapolei, HI 96707
-- davidebinger888@gmail.com
-- (808) 428-1661
+- Address - 91-1179 Kaiau Avenue Kapolei, HI 96707
+- Email - davidebinger888@gmail.com
+- Phone - (808) 428-1661
 - [Github - https://github.com/Debinger](https://github.com/Debinger)
 - [LinkedIn - https://www.linkedin.com/in/david-ebinger-85887313a/](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
