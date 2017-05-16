@@ -6,9 +6,6 @@
 - [Github - https://github.com/Debinger](https://github.com/Debinger)
 - [LinkedIn - https://www.linkedin.com/in/david-ebinger-85887313a/](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
-## Objective
-Full Stack Developer
-
 ## Development Experience
 
 ### Hele
@@ -21,9 +18,9 @@ Full Stack Developer
 ### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
 #### [Github - W.A.A.V.E](https://github.com/DEbinger/adware-waves)
 ##### Janruary 2017
-- Create a game that loads pop ups in intervals/set timeouts to your workstation. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
-- Implementation of Phaser functionality for the game.
-- Developing a working game in a short period of time.
+- Created a game that loads pop ups in intervals/set timeouts to a workstation on screen. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
+- Implementated Phaser scripting functionality for the game.
+- Developed a working game in a high pressure situation under a small window of a 48 hour deadline.
 
 ## Professional Experience
 
@@ -35,8 +32,8 @@ methods, fees or medical coding
 - Researches current state of QNXT & CES configuration to meet requirements of projects and larger
 BAU assignments
 - Communicates effectively by being lead on requirement development with various internal customers, BCIS Management/Leads, and Business Analysts
-- Ensure requests are completed within the scope of requirements
-- Recommend changes to existing workflows to ensure less manaual processing is needed based on requirements based and research that improves efficiency and increase overall satisfaction by business owner
+- Recommends requests are completed within the scope of requirements
+- Analyze workflows to ensure less manual processing is needed. The analysis are based on business requirements and research that is used to improve efficiency. This implementation lowered overall volume by 5% and increased satisfaction by the business owner.
 - Designs, develops, tests and implements QNXT configuration
 - Conducts unit testing to ensure application meets specifications
 
