@@ -20,7 +20,7 @@
 ##### Janruary 2017
 - Created a game that loads pop ups in intervals/set timeouts to a workstation on screen. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
 - Implementated Phaser scripting functionality for the game.
-- Developed a working game in a high pressure situation within the small timeframe of a 48 hour deadline.
+- Developed a working game in a high pressure situation within the short timeframe of a 48 hour deadline.
 
 ## Professional Experience
 
@@ -33,7 +33,7 @@ methods, fees or medical coding
 BAU assignments
 - Communicates effectively by being lead on requirement development with various internal customers, BCIS Management/Leads, and Business Analysts
 - Recommends requests are completed within the scope of requirements
-- Analyze workflows to ensure less manual processing is needed. The analysis are based on business requirements and research that is used to improve efficiency. This implementation lowered overall volume by 5% and increased satisfaction by the business owner.
+- Analyzes workflows to ensure less manual processing is needed. The analysis are based on business requirements and research that is used to improve efficiency. This implementation lowered overall volume by 5% and increased satisfaction by the business owner.
 - Designs, develops, tests and implements QNXT configuration
 - Conducts unit testing to ensure application meets specifications
 
