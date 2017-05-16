@@ -20,7 +20,7 @@
 ##### Janruary 2017
 - Created a game that loads pop ups in intervals/set timeouts to a workstation on screen. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
 - Implementated Phaser scripting functionality for the game.
-- Developed a working game in a high pressure situation under a small window of a 48 hour deadline.
+- Developed a working game in a high pressure situation within the small timeframe of a 48 hour deadline.
 
 ## Professional Experience
 
