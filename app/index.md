@@ -4,7 +4,7 @@
 - Email - davidebinger888@gmail.com
 - Phone - (808) 428-1661
 - [Github - https://github.com/Debinger](https://github.com/Debinger)
-- [LinkedIn - https://www.linkedin.com/in/david-ebinger-85887313a/](https://www.linkedin.com/in/david-ebinger-85887313a/)
+- [LinkedIn - https://www.linkedin.com/in/david-ebinger](https://www.linkedin.com/in/david-ebinger)
 
 ## Development Experience
 
@@ -12,12 +12,12 @@
 #### [Github - Hele.io](https://github.com/debinger/CEGS)
 ##### May 2017
 - Created web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
-- Contributed with development of the backend development (including authentification, user routes), and web application deployment.
+- Contributed with development of the backend development (including authentication, user routes), and web application deployment.
 - [Hele.io](https://www.hele.io)
 
 ### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
 #### [Github - W.A.A.V.E](https://github.com/DEbinger/adware-waves)
-##### Janruary 2017
+##### January 2017
 - Created a game that loads pop ups in intervals/set timeouts to a workstation on screen. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
 - Implementated Phaser scripting functionality for the game.
 - Developed a working game in a high pressure situation within the short timeframe of a 48 hour deadline.
@@ -26,7 +26,7 @@
 
 ### Configuration Architect
 #### Hawaii Medical Services Association
-##### HI 2004 – Present
+##### May 2004 – May 2017
 - Analyzes benefit plans, products, medical/payment policies, provider contracts, reimbursement
 methods, fees or medical coding
 - Researches current state of QNXT & CES configuration to meet requirements of projects and larger
@@ -40,7 +40,7 @@ BAU assignments
 ## Education
 ### DevLeague
 #### Full Stack Development Bootcamp
-##### December 2016 - May 2017
+##### November 2016 - May 2017
 
 ## Technical Skills
 
@@ -52,7 +52,7 @@ BAU assignments
 
 ### Web Skills
 - Backend Server Routes
-- User Authentification
+- User Authentication
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
 - Relational - and Non-Relational Database Modeling
