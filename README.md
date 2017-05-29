@@ -4,7 +4,7 @@
 - Email - davidebinger888@gmail.com
 - Phone - (808) 428-1661
 - [Github - https://github.com/Debinger](https://github.com/Debinger)
-- [LinkedIn - https://www.linkedin.com/in/david-ebinger-85887313a/](https://www.linkedin.com/in/david-ebinger-85887313a/)
+- [LinkedIn - https://www.linkedin.com/in/david-ebinger](https://www.linkedin.com/in/david-ebinger)
 
 ## Development Experience
 
